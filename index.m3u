@@ -1,28 +1,138 @@
-#EXTM3U
+more compact line height from the view settings menu.
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg" group-title="beIN SPORTS", beIN SPORTS 1 HD
-http://premium-play.org:8000/saidclt201/XmQat4ju/2826
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/60/Beinsports2hd.jpg" group-title="beIN SPORTS", beIN SPORTS 2 HD
-http://premium-play.org:8000/saidclt201/XmQat4ju/2827
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/BEIN-Sport-3-ID_o.jpg" group-title="beIN SPORTS", beIN SPORTS 3 HD
-http://premium-play.org:8000/saidclt201/XmQat4ju/2828
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c3/Bein_4.png" group-title="beIN SPORTS", beIN SPORTS 4 HD
-http://premium-play.org:8000/saidclt201/XmQat4ju/2829
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fd/Bein_5.png" group-title="beIN SPORTS", beIN SPORTS 5 HD
-http://premium-play.org:8000/saidclt201/XmQat4ju/2830
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3e/Bein6.png" group-title="beIN SPORTS", beIN SPORTS 6 HD
-http://premium-play.org:8000/saidclt201/XmQat4ju/2831
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f1/Bein_7.png" group-title="beIN SPORTS", beIN SPORTS 7 HD
-http://premium-play.org:8000/saidclt201/XmQat4ju/2832
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/09/Bein_8.png" group-title="beIN SPORTS", beIN SPORTS 8 HD
-http://premium-play.org:8000/saidclt201/XmQat4ju/2833
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cd/Bein_sport_9.png" group-title="beIN SPORTS", beIN SPORTS 9 HD
-http://premium-play.org:8000/saidclt201/XmQat4ju/2834
-#EXTINF:-1 tvg-id="" tvg-name="Beinsport 10" tvg-logo="https://www.orbitiptvpro.com/logos/b10.png" group-title="beIN SPORTS", beIN SPORTS 10 HD
-http://premium-play.org:8000/saidclt201/XmQat4ju/2835
-#EXTINF:-1 tvg-id="" tvg-name="Beinsport 11" tvg-logo="https://www.orbitiptvpro.com/logos/b11.png" group-title="beIN SPORTS", beIN SPORTS 11 HD
-http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/7342
-#EXTINF:-1 tvg-id="" tvg-name="Beinsport 12" tvg-logo="https://www.orbitiptvpro.com/logos/b12.png" group-title="beIN SPORTS", beIN SPORTS 12 HD
-http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/7343
-#EXTINF:-1 tvg-id="" tvg-name="Beinsport 13" tvg-logo="https://www.orbitiptvpro.com/logos/b13.png" group-title="beIN SPORTS", beIN SPORTS 13 HD
-http://link.softiptv.com:2500/0iP7tOoIA0/0UAuo8Rw88/7344
+‎index.m3u
++28
+-131
+Original file line number	Diff line number	Diff line change
+@@ -1,131 +1,28 @@
+#EXTM3U
+#EXTINF:-1,•●★★--- beIN Sport Full HD ---★★●•
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/3220
+#EXTINF:-1,beIN SPORTS Full HD 1
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/3221
+#EXTINF:-1,beIN SPORTS Full HD 2
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/3222
+#EXTINF:-1,beIN SPORTS Full HD 3
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/3224
+#EXTINF:-1,beIN SPORTS Full HD 4
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/3225
+#EXTINF:-1,beIN SPORTS Full HD 5
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/3226
+#EXTINF:-1,beIN SPORTS Full HD 6
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/3227
+#EXTINF:-1,beIN SPORTS Full HD 7
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/3228
+#EXTINF:-1,beIN SPORTS Full HD 8
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/3230
+#EXTINF:-1,beIN SPORTS Full HD 9
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/4033
+#EXTINF:-1,•●★★--- beIN SPORTS [HVEC_H265] ---★★●•
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/3703
+#EXTINF:-1,beIN SPORTS 1 [H265]
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/459
+#EXTINF:-1,beIN SPORTS 2 [H265]
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/450
+#EXTINF:-1,beIN SPORTS 3 [H265]
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/451
+#EXTINF:-1,beIN SPORTS 4 [H265]
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/453
+#EXTINF:-1,beIN SPORTS 5 [H265]
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/3875
+#EXTINF:-1,beIN SPORTS 6 [H265]
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/455
+#EXTINF:-1,beIN SPORTS 7 [H265]
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/4002
+#EXTINF:-1,beIN SPORTS 8 [H265]
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/457
+#EXTINF:-1,beIN SPORTS 9 [H265]
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/4003
+#EXTINF:-1,•●★★--- beIN SPORTS ᴴᴰ ---★★●•
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/117
+#EXTINF:-1,beIN SPORTS News
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/2051
+#EXTINF:-1,beIN SPORTS 1 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/46
+#EXTINF:-1,beIN SPORTS 2 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/47
+#EXTINF:-1,beIN SPORTS 3 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/49
+#EXTINF:-1,beIN SPORTS 4 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/50
+#EXTINF:-1,beIN SPORTS 5 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/51
+#EXTINF:-1,beIN SPORTS 6 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/52
+#EXTINF:-1,beIN SPORTS 7 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/53
+#EXTINF:-1,beIN SPORTS 8 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/54
+#EXTINF:-1,beIN SPORTS 9 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/4034
+#EXTINF:-1,beIN SPORTS XTRA 1 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/4095
+#EXTINF:-1,beIN SPORTS XTRA 2 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/4096
+#EXTINF:-1,beIN SPORTS  FRENCH 1 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/3972
+#EXTINF:-1, beIN SPORTS  ENGLISH 1 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/3001
+#EXTINF:-1,beIN SPORTS NBA 
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/3973
+#EXTINF:-1,•●★★--- beIN SPORTS SD ---★★●•
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/2873
+#EXTINF:-1,beIN SPORTS 1 SD
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/56
+#EXTINF:-1,beIN SPORTS 2 SD
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/57
+#EXTINF:-1,beIN SPORTS 3 SD
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/59
+#EXTINF:-1,beIN SPORTS 4 SD
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/60
+#EXTINF:-1,beIN SPORTS 5 SD
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/93
+#EXTINF:-1,beIN SPORTS 6 SD
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/92
+#EXTINF:-1,beIN SPORTS 7 SD
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/91
+#EXTINF:-1,beIN SPORTS 8 SD
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/61
+#EXTINF:-1,beIN SPORTS 9 SD
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/4035
+#EXTINF:-1,•●★★--- beIN Entertainment ---★★●•
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/121
+#EXTINF:-1,AR: beIN Movies 1 HD
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/24
+#EXTINF:-1,AR: beIN Movies 2 HD
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/17
+#EXTINF:-1,AR: beIN Movies 3 HD
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/18
+#EXTINF:-1,AR: beIN Movies 4 HD 
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/19
+#EXTINF:-1,AR: beIN Series 1 HD
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/20
+#EXTINF:-1,AR: beIN Series 2 HD
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/21
+#EXTINF:-1,AR: beIN Drama
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/15
+#EXTINF:-1,AR:  beIN Outdoor
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/13
+#EXTINF:-1,AR:  beIN AMC
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/14
+#EXTINF:-1,AR: beIN Jeem HD
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/22
+#EXTINF:-1,AR: beIN Fox Movies
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/23
+#EXTINF:-1,AR: beIN FATAFEAT HD
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/25
+#EXTINF:-1,AR: beIN Gourmet 
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/947
+#EXTINF:-1,AR: beIN Baraeem
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/2028
+#EXTINF:-1,AR: beIN JUNIOR HD
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/2947
+#EXTINF:-1,AR: beIN DREAMWORKS HD
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/2948
+#EXTINF:-1,AR:Cartoon Network Arabic
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/2949
+#EXTINF:-1,AR: beIN BOXOFFICE HD1
+http://ugeen.live:8080/Ugeen_VIP1v9qv6/ewv6hu/3276
